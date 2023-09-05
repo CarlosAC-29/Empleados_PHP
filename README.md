@@ -17,4 +17,4 @@ User
 
 ## Instalación
 
-El proyecto utiliza una base de datos MySQL, el archivo SQL se encuentra dentro de la carperta bd.
+El proyecto utiliza una base de datos MySQL, el archivo SQL se encuentra dentro de la carperta sql.
